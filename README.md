@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shreyas Kamath</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyas2711" alt="shreyas2711" /></a> </p>
-
 - 🔭 I’m currently working on **AI Saas**
 
 - 📫 How to reach me **shreyas.kamath27@gmail.com**
+
 
 <p align="left">
 </p>
@@ -16,3 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyas2711&show_icons=true&locale=en&layout=compact" alt="shreyas2711" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyas2711&show_icons=true&locale=en" alt="shreyas2711" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas2711&" alt="shreyas2711" /></p>
